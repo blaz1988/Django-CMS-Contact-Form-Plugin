@@ -1,0 +1,11 @@
+.DS_Store
+DS_STORE
+*.pyc
+*~
+.project
+.pydevproject
+.settings
+build
+dist
+cmsplugin_contact.egg-info
+.idea
